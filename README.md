@@ -2,7 +2,7 @@
 
 The files in this repository were used to configure the network depicted below.
 
-https://github.com/sulfur321/cybersec-project-1/blob/2a6005901dc0d6193c0a6ec0077befed49155d4e/Images/Network%20Diagram.png](Images/diagram_filename.png)
+![](https://github.com/sulfur321/cybersec-project-1/blob/057eec373a5de4e20683bb570ab780394640349d/Images/Network%20Diagram.png)
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the _____ file may be used to install only certain pieces of it, such as Filebeat.
 
